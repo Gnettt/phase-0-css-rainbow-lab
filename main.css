@@ -6,6 +6,27 @@ div {
   min-height: 25em; /* of the divs oblong*/
   border-radius: 50%; /* this makes the normally square div round */
   border-left-color: transparent; /* these remove the color from the left side */
-  border-right-color: transparent; /* the right side */
+  border-right-color:transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
+}
+#red {
+  border-top-color: red; /* this makes the top of the circle red */
+}
+#orange {
+  border-top-color: orange; /* this makes the top of the circle orange */
+}
+#yellow {
+  border-top-color: yellow; /* this makes the top of the circle yellow */
+}
+#green {
+  border-top-color: green; /* this makes the top of the circle green */
+}
+#blue {
+  border-top-color: blue; /* this makes the top of the circle blue */
+}
+#indigo {
+  border-top-color: indigo; /* this makes the top of the circle indigo */
+}
+#violet {
+  border-top-color: violet; /* this makes the top of the circle violet */
 }
